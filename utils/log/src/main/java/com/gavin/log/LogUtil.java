@@ -1,4 +1,4 @@
-package com.gavin.utils;
+package com.gavin.log;
 
 import android.util.Log;
 import java.io.PrintWriter;
